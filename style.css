@@ -1,0 +1,50 @@
+#title{
+    margin: 5px;
+    display: block;
+    margin: auto 0;    
+}
+
+
+
+#btn_new{
+    display: block;
+   
+    margin: 3% auto 0;
+}
+
+
+.gridItems{
+    vertical-align: top;
+    
+    background: rgb(158, 158, 158);
+    margin: 0px 0px 0px 0px;
+    border: 0.5px solid black
+}
+
+.container{
+    top: 10px;
+    display:grid;
+    position: relative;
+    width: 480px;
+    height: 480px;
+    padding: 1px;
+    vertical-align: top;
+  
+    
+}
+.hover{
+    
+    vertical-align: top;
+    position: relative;
+    
+  
+    margin: 0px 0px 0px 0px;
+    border: 0.5px solid black;
+}
+body{
+    width: fit-content;
+    
+    position: relative;
+    
+    margin: auto;
+}
